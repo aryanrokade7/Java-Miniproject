@@ -1,5 +1,3 @@
 ﻿# Java-Miniproject
 Made by :
-Rashid Khan
-Aryan Rokade
-Harsh Rathod
+Rashid Khan, Aryan Rokade and Harsh Rathod
